@@ -1,0 +1,27 @@
+@import './var.scss';
+
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.budget__list-wrap{
+    
+}
+.list-item{
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+
+}
+.budget__value{
+    font-weight: 700;
+    margin:0 20px 0 auto;
+}
+
+.choice-element{
+    width: 100%;
+}
